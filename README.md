@@ -1,2 +1,2 @@
 ## raashed here 👋
- - I do ops for living.
+ - I do ops and distributed systems.
