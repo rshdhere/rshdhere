@@ -1,2 +1,2 @@
 ## raashed here 👋
- - I do ops and distributed systems.
+ - I do full-stack, ops and distributed systems.
