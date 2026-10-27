@@ -1,3 +1,3 @@
 ## raashed here, available for hire 👋
  - I do full-stack, ops and distributed systems.
- - weekends at [raashed.com/open-source](https://www.raashed.com/open-source)
+ - look at [what am learning at the weekends](https://github.com/rshdhere/what-am-learning)
